@@ -162,7 +162,7 @@ public:
         if(temp==nullptr && flag==0)
             std::cout<<"\nProcess Id Not Found . Please enter valid\n";
         else
-            std::cout<<"\nProcess Id Fount and Deleted Successfully\n";
+            std::cout<<"\nProcess Id Found and Deleted Successfully\n";
     }
 
     // Function to Print the Linked List
